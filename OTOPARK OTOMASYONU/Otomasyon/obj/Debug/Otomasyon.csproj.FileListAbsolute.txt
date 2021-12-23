@@ -1,0 +1,50 @@
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.FrmAnaSayfa.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkYeri.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkKaydı.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Marka.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Seri.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkÇıkış.resources
+C:\Users\ddc24\source\repos\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Satis.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkKaydı.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkYeri.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkÇıkış.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.FrmAnaSayfa.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Marka.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Satis.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.Seri.resources
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\ddc24\Desktop\Otomasyon\Otomasyon\obj\Debug\Otomasyon.pdb
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkKaydı.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkYeri.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.AraçOtoparkÇıkış.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.FrmAnaSayfa.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.Marka.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.Satis.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.Seri.resources
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\ddc24\Desktop\OTOPARK OTOMASYONU 1206706046\Otomasyon\obj\Debug\Otomasyon.pdb
